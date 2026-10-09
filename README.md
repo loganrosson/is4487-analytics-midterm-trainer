@@ -19,7 +19,7 @@ A study app for a business analytics (pandas / data science) midterm. Its **Code
 
 ## How the Code Lab works
 ```mermaid
-flowchart LR
+flowchart TD
     C[Question code] --> P[Parse with ast<br/>split into statements]
     D[(Embedded lab data<br/>DataFrame)] --> X
     P --> X[Execute one statement<br/>sys.settrace]
