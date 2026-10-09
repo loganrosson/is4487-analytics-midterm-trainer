@@ -13,9 +13,8 @@ A study app for a business analytics (pandas / data science) midterm. Its **Code
 - Every question is tagged by source; progress is saved locally
 
 ## Screenshots
-| Code Lab: stepping through pandas | Feedback on a wrong answer |
-|---|---|
-| ![Code Lab](docs/codelab.png) | ![Feedback](docs/question.png) |
+**A question from the professor's practice exam**, with the code the Code Lab can step through
+![Question](docs/question.png)
 
 ## How the Code Lab works
 ```mermaid
